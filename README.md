@@ -1,5 +1,5 @@
 # PORTFOLIO-PROJECT
 THIS IS MY FIRST PORTFOLIO PROJECT.
 <br>
-Author- Tulsi Gujjar
+Author- Tulsi Kheppar
 
